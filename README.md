@@ -36,8 +36,8 @@
 ## 진행 상황
 
 ### 백준
-- Bronze: 0문제
-- Silver: 0문제
+- Bronze: 12문제
+- Silver: 1문제
 - Gold: 0문제
 - Platinum: 0문제
 - Diamond: 0문제
