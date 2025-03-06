@@ -18,9 +18,6 @@
   - `data-structures/` - 자료구조 구현
 
 ## 목표
-- [ ] 백준 골드 달성
-- [ ] 백준 플래티넘 달성
-- [ ] 백준 다이아몬드 달성
 - [ ] solved.ac 골드 달성
 - [ ] solved.ac 플래티넘 달성
 - [ ] solved.ac 다이아몬드 달성
@@ -35,8 +32,8 @@
 
 ## 진행 상황
 
-### 백준
-- Bronze: 12문제
+### solved.ac
+- Bronze: 33문제
 - Silver: 1문제
 - Gold: 0문제
 - Platinum: 0문제
