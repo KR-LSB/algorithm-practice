@@ -33,7 +33,7 @@
 ## 진행 상황
 
 ### solved.ac
-- Bronze: 33문제
+- Bronze: 47문제
 - Silver: 1문제
 - Gold: 0문제
 - Platinum: 0문제
