@@ -35,7 +35,7 @@
 ## 진행 상황
 
 ### solved.ac
-- Bronze: 47문제
+- Bronze: 49문제
 - Silver: 1문제
 - Gold: 0문제
 - Platinum: 0문제
