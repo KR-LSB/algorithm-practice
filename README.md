@@ -34,9 +34,16 @@
 
 ## 진행 상황
 
+### AC RATIN
+- silver V
+
 ### solved.ac
-- Bronze: 49문제
-- Silver: 1문제
+- Bronze: 59문제
+- Silver: 2문제
 - Gold: 0문제
 - Platinum: 0문제
 - Diamond: 0문제
+
+### Retry
+- [ ] 1157
+- [ ] 2941
