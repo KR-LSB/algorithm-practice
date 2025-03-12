@@ -38,8 +38,8 @@
 - silver V
 
 ### solved.ac
-- Bronze: 59문제
-- Silver: 2문제
+- Bronze: 62문제
+- Silver: 5문제
 - Gold: 0문제
 - Platinum: 0문제
 - Diamond: 0문제
