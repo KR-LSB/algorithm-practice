@@ -4,10 +4,8 @@
 
 ## 구조
 
-- `baekjoon/` - 백준 온라인 저지(BOJ) 문제 풀이
+- `baekjoon/` - 백준 문제 풀이
   - `silver/`, `gold/`, `platinum/`, `diamond/` - 난이도별 분류
-- `solved-ac/` - solved 문제 풀이
-  - `silver/`, `gold/`, `platinum/` - 난이도별 분류
 - `codeforces/` - 코드포스 문제 풀이
   - `div3/`, `div2/`, `div1/` - 대회 수준별 분류
 - `algorithms/` - 주요 알고리즘 구현 및 설명
@@ -38,7 +36,7 @@
 - silver V
 
 ### solved.ac
-- Bronze: 62문제
+- Bronze: 75문제
 - Silver: 5문제
 - Gold: 0문제
 - Platinum: 0문제
