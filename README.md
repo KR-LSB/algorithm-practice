@@ -32,7 +32,7 @@
 
 ## 진행 상황
 
-### AC RATIN
+### SOLVED.AC RATIN
 - silver V
 
 ### solved.ac
