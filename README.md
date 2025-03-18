@@ -33,15 +33,11 @@
 ## 진행 상황
 
 ### SOLVED.AC RATIN
-- silver V
+- silver IV
 
 ### solved.ac
-- Bronze: 75문제
+- Bronze: 82문제
 - Silver: 5문제
 - Gold: 0문제
 - Platinum: 0문제
 - Diamond: 0문제
-
-### Retry
-- [ ] 1157
-- [ ] 2941
