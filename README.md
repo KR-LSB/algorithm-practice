@@ -36,7 +36,7 @@
 - silver IV
 
 ### solved.ac
-- Bronze: 82문제
+- Bronze: 87문제
 - Silver: 5문제
 - Gold: 0문제
 - Platinum: 0문제
